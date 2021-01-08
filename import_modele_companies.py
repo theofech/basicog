@@ -14,4 +14,5 @@ def change_list_element(list,element,increment):
 		print("Element non dans la liste")
 		exit
 
+def add_raw_data(strCompany,strYear,strIndicator,floatRawData,intPage,strDocument,strComment):
 
